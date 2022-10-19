@@ -1,5 +1,5 @@
 x=10
-y=278
+y=2
 temp=x
 x=y
 y=temp
